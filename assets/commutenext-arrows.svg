@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- CommuteNEXT mark: two short lanes heading left, one long lane heading right. -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="60" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M566 327 H300 M406 221 L300 327 L406 433"/>
+    <path d="M244 520 H790 M684 414 L790 520 L684 626"/>
+    <path d="M554 715 H300 M406 609 L300 715 L406 821"/>
+  </g>
+</svg>
